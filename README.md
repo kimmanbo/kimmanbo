@@ -2,9 +2,9 @@
 
 🏛 &nbsp; Studied from LRSC(US, Associate), IIT(US, Bachelor), SNU(KR, Master).
 
-💻 &nbsp; Worked as a developer for past 7 years. Still enjoy learning new technologies.
+💻 &nbsp; Worked as a developer for past 8 years. Still enjoy learning new technologies.
 
-🌱 &nbsp; Currently preparing to start my own business. Loves to do something my own!
+🌱 &nbsp; Working on early stage startup!
 
 🗣 &nbsp; Loves to communicate with new friends!
 
@@ -18,15 +18,15 @@
 
 ## Experienced Languages & Technologies:
 - C++17 (w/ gcc or clang)
+- Javascript & Typescript (w/ Node.js + NestJS)
+- Dart (w/ Flutter)
 - Python (w/ Django)
 - Java & Kotlin (for Spring Boot & Android)
-- Dart (w/ Flutter)
-- Javascript & Typescript (w/ Node.js + NestJS)
 - MySQL & MariaDB (w/ TypeORM)
 - MongoDB (w/ pymongo)
 
 
-[website]: https://kimmanbo.github.io
+[website]: https://kimmanbo.tistory.com
 [twitter]: https://twitter.com/{address}
 [youtube]: https://youtube.com/{address}
 [instagram]: https://instagram.com/hangyoung.kim
