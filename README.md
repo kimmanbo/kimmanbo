@@ -22,8 +22,8 @@
 - Dart (w/ Flutter)
 - Python (w/ Django)
 - Java & Kotlin (for Spring Boot & Android)
-- MySQL & MariaDB (w/ TypeORM)
-- MongoDB (w/ pymongo)
+- MySQL & MariaDB & PostgreSQL (w/ TypeORM)
+- MongoDB (w/ mongoose, pymongo)
 
 
 [website]: https://kimmanbo.tistory.com
