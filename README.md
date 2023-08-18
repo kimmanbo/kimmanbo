@@ -1,8 +1,8 @@
 ## Hangyoung Kim
 
-🏛 &nbsp; Studied from LRSC(US, Associate), IIT(US, Bachelor), SNU(KR, Master).
+🏛 &nbsp; Studied at LRSC(US, Associate's), IIT(US, Bachelor's), SNU(KR, Master's).
 
-💻 &nbsp; Worked as a developer for past 8 years. Still enjoy learning new technologies.
+💻 &nbsp; Worked as a developer for past 9 years. Still enjoy learning new technologies.
 
 🌱 &nbsp; Working on early stage startup!
 
